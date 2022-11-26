@@ -16,8 +16,8 @@ public class HelloWorld {
         System.out.println("java canlara selam olsun");
         System.out.println("java canlara selam olsun");
 
-        System.out.println("burhan");
-        System.out.println("erciyes");
+        System.out.println("hakan");
+        System.out.println("aydın");
         System.out.println("48");
         System.out.println("serbest meslek");
 
